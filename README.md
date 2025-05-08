@@ -1,5 +1,5 @@
 
-<p align=center><img src=https://raw.githubusercontent.com/RogerCortezRosas/RogerCortezRosas/main/images/rogerLogo.jpg height="400" width="1000"></p>
+<p align=center><img src=https://raw.githubusercontent.com/RogerCortezRosas/RogerCortezRosas/main/images/rogerlogo3.jpg height="400" width="1000"></p>
 
 👋
 
