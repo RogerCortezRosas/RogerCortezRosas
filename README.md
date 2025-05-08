@@ -41,7 +41,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,scikit-learn,keras,pytorch,docker,airflow,fastapi,mysql,mongodb,git,github,aws,powerbi,plotly,azure,spark,databricks,jira" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,fastapi,mysql,mongodb,git,github,aws,azure,spark,databricks,jira" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Power_BI_Logo.svg" alt="Power BI" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Plotly-logo-01-square.png" alt="Plotly" height="40" />
 </div>
 
 
