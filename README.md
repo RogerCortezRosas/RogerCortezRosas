@@ -19,7 +19,7 @@
 
  💬 Ask me about **Since I was young, I've always been fascinated by software, robots and technology .I'm really find fasinating this world. <div> I've spent a lot of time fixing these problems, and now, with my knowledge in Data Science, I solve problems using data</div>.**
 
-⚡ Fun fact **Do excercise and read books**🏊📖
+⚡ Fun fact **Do excercise and read books**🏊
 
  </div>
 
