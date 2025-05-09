@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on Kaggle competitions(Data science competitions)🚀
+ 🔭 I’m currently working on Kaggle competitions(Data science competitions)
 
  📈 I’m currently working on financial analysis🚀
  
